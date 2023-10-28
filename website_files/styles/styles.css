@@ -1,0 +1,35 @@
+body{
+    background-position: inherit;
+    width:max-content;
+    height:max-content;
+    background-image:url(../images/colors.png);
+    width:3200px;
+}
+p{
+    font-family: sans-serif;
+    color: white;
+}
+h1{
+    font-family: sans-serif;
+    color:white;
+}
+#nav{
+    text-decoration: none;
+    height: 0.5em;
+}
+li{
+    display:inline;
+    padding:5px;
+    color: white;
+}
+img{
+    position:fixed;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+footer{
+    font-size:200%;
+}
